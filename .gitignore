@@ -1,0 +1,13 @@
+# raw data is downloaded by the notebook (too big for github)
+data/raw/
+
+# keras tuner results and checkpoints
+keras_tuner_results/
+.ipynb_checkpoints/
+
+# presentation notes and older versions
+*.docx
+*.pdf
+interim_presentation.ipynb
+
+.DS_Store
